@@ -1,0 +1,17 @@
+# Environment and secrets
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated artifacts
+indexes/
+outputs/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
