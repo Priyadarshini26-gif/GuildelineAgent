@@ -1,0 +1,47 @@
+[
+  {
+    "id": "idsa_2025_cuti",
+    "title": "Clinical Practice Guideline by IDSA: 2025 Guideline on Management and Treatment of Complicated Urinary Tract Infections",
+    "issuing_organization": "Infectious Diseases Society of America (IDSA)",
+    "source_url": "https://www.idsociety.org/practice-guideline/complicated-urinary-tract-infections/",
+    "publication_date": "2025-07-17",
+    "accessed_date": "2026-10-22",
+    "version_notes": "Date is from secondary sources; confirm on the document. Check the IDSA page for corrections or updates.",
+    "scope": "Complicated UTI including acute pyelonephritis, women and men; classification, empiric selection, IV-to-oral switch, duration.",
+    "exclusions": "Page 4: management of prostatitis, epididymitis, or orchitis is outside the scope[cite: 22]. Page 7: patients with renal transplantation, or who are pregnant, lactating, or neutropenic are not specifically addressed, and adolescents and children are excluded[cite: 25]. Page 11: abstracts, conference proceedings, letters to the editor, editorials, review articles, and unpublished data were excluded[cite: 29].",
+    "license_notes": "Copyright statement on page 16: The guidelines represent the proprietary and copyrighted property of IDSA. All rights reserved[cite: 34]. Terms page: Explicit URL not provided, but detailed terms are stated on page 16[cite: 34]. Redistribution allowed: No, prior written authorization by IDSA is required to sell, distribute, or modify the guidelines, though permission is granted to physicians and health care providers solely to copy and use the guidelines in their professional practices and clinical decision making[cite: 34].",
+    "local_filename": "idsa_2025_cuti.pdf",
+    "sha256": "82DEB2AE59E9DA3DDC341AD48C6611CFBDF06D4D201D1E16F34C1DF9BCF15C80",
+    "limitations": "US guideline. Confirm whether the document says drugs approved after 2025 may also be appropriate."
+  },
+  {
+    "id": "idsa_escmid_2010_uncomplicated",
+    "title": "International clinical practice guidelines for the treatment of acute uncomplicated cystitis and pyelonephritis in women: A 2010 update by IDSA and ESCMID",
+    "issuing_organization": "IDSA; European Society of Clinical Microbiology and Infectious Diseases (ESCMID)",
+    "source_url": "https://www.idsociety.org/practice-guideline/uncomplicated-cystitis-and-pyelonephritis-uti/",
+    "publication_date": "2011-03-01",
+    "accessed_date": "2026-10-22",
+    "version_notes": "Classification definitions differ from the 2025 IDSA guideline. Confirm whether a newer replacement exists.",
+    "scope": "Acute uncomplicated cystitis and acute pyelonephritis in women.",
+    "exclusions": "Page e103: limited to premenopausal, non-pregnant women with no known urological abnormalities or co-morbidities[cite: 1]. Page e104: discussion of specific management of women who are postmenopausal or have well-controlled diabetes, management of recurrent cystitis, UTI in pregnant women, prevention of UTI, and diagnosis of UTI are outside the scope[cite: 2]. Page e108: studies including >10% men or patients with complicated UTI, and non-English-language studies were excluded[cite: 6].",
+    "license_notes": "Copyright statement on page e103: The Author 2011. Published by Oxford University Press on behalf of the Infectious Diseases Society of America. All rights reserved[cite: 1]. Terms page: Permissions email provided as journals.permissions@oup.com[cite: 1]. Redistribution allowed: No, all rights reserved[cite: 1].",
+    "local_filename": "idsa_escmid_2010_uncomplicated.pdf",
+    "sha256": "BE77FD8A39FB4439FF0F817FFC2D830025285135B311B81528A02E2D808C96C6",
+    "limitations": "Women only. Older than the 2025 guideline."
+  },
+  {
+    "id": "nice_ng111",
+    "title": "Pyelonephritis (acute): antimicrobial prescribing (NG111)",
+    "issuing_organization": "National Institute for Health and Care Excellence (NICE)",
+    "source_url": "https://www.nice.org.uk/guidance/ng111",
+    "publication_date": "2018-08-31",
+    "accessed_date": "2026-10-22",
+    "version_notes": "NICE page states a check in April 2019. A draft combining acute pyelonephritis and complicated UTI exists, so a revision may be in progress. Confirm current status.",
+    "scope": "Acute pyelonephritis in children, young people and adults without a catheter.",
+    "exclusions": "No explicit exclusion section found; scope statement on page 4 indicates it covers children, young people, and adults who do not have a catheter[cite: 42].",
+    "license_notes": "Copyright statement on page 1: © NICE 2026. All rights reserved[cite: 39]. Terms page: https://www.nice.org.uk/terms-and-conditions#notice-of-rights[cite: 39]. Redistribution allowed: Unclear without visiting the terms URL, subject to Notice of rights[cite: 39].",
+    "local_filename": "nice_ng111.pdf",
+    "sha256": "47C3E9E7E71F440663AD2B302FF8C22E6963BE2C50C22AF473ED3E8626052C45",
+    "limitations": "UK guideline referring to UK resistance data. May disagree with IDSA."
+  }
+]
