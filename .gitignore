@@ -16,4 +16,6 @@ outputs/
 .DS_Store
 Thumbs.db
 
+data/index/
+
 data/guidelines/*.pdf

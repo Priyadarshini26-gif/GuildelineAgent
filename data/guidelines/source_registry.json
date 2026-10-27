@@ -43,5 +43,35 @@
     "local_filename": "nice_ng111.pdf",
     "sha256": "47C3E9E7E71F440663AD2B302FF8C22E6963BE2C50C22AF473ED3E8626052C45",
     "limitations": "UK guideline referring to UK resistance data. May disagree with IDSA."
+  },
+  {
+    "id": "idsa_2025_cuti_iv_to_oral",
+    "title": "IDSA 2025 Guideline on Management and Treatment of Complicated Urinary Tract Infections: Timing of Intravenous to Oral Antibiotics Transition",
+    "issuing_organization": "Infectious Diseases Society of America",
+    "source_url": "https://www.idsociety.org/globalassets/idsa/practice-guidelines/cuti/clinical-question-2-final.pdf",
+    "publication_date": "2025",
+    "accessed_date": "2026-10-25",
+    "version_notes": "2025 IDSA guideline, Clinical Question 2; local PDF contains 19 pages.",
+    "scope": "Transition from parenteral to oral antibiotics in patients with complicated urinary tract infection, including acute pyelonephritis.",
+    "exclusions": "This document addresses the IV-to-oral transition question; it is not the complete cUTI guideline.",
+    "license_notes": "IDSA source document. Retain attribution and check applicable reuse terms before redistribution.",
+    "local_filename": "idsa_2025_cuti_iv_to_oral.pdf",
+    "sha256": "f15bc61eb9ace7ed15310a04c2999e7ba928737f133f291c4111b89d5e3e3ee7",
+    "limitations": "The local PDF is a specific clinical-question document, not the full guideline. Verify recommendations against the original source before clinical use. Exact publication date has not been independently recorded."
+  },
+  {
+    "id": "idsa_2025_cuti_duration",
+    "title": "IDSA 2025 Guideline on Management and Treatment of Complicated Urinary Tract Infections: Duration of Antibiotics for Complicated UTI",
+    "issuing_organization": "Infectious Diseases Society of America",
+    "source_url": "https://www.idsociety.org/globalassets/idsa/practice-guidelines/cuti/clinical-question-3-2025.pdf",
+    "publication_date": "2025",
+    "accessed_date": "2026-10-25",
+    "version_notes": "2025 IDSA guideline, Clinical Question 3; local PDF contains 17 pages.",
+    "scope": "Duration of antibiotic treatment for complicated urinary tract infection, including acute pyelonephritis.",
+    "exclusions": "This document addresses the antibiotic-duration question; it is not the complete cUTI guideline.",
+    "license_notes": "IDSA source document. Retain attribution and check applicable reuse terms before redistribution.",
+    "local_filename": "idsa_2025_cuti_duration.pdf",
+    "sha256": "e802f0f86e541971da934cbc9ab9316ab15780ce5e2afc39d9a6adebe5385873",
+    "limitations": "The local PDF is a specific clinical-question document, not the full guideline. Verify recommendations against the original source before clinical use. Exact publication date has not been independently recorded."
   }
 ]
