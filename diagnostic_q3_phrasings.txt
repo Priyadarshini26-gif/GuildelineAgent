@@ -1,0 +1,196 @@
+==============================================================================
+TEST: original
+QUESTION: According to IDSA/ESCMID 2010, what initial intravenous antimicrobial regimens are listed for women with pyelonephritis requiring hospitalization?
+Relevant page rank in global top 20: 13
+Relevant page rank within source top 20: 6
+
+GLOBAL TOP 10:
+1. source=nice_ng111 page=23 chunk=3 score=0.7538
+a choice of first-line intravenous antibiotics, at usual doses, for people with acute pyelonephritis who are unable to take oral antibiotics due to vomiting, or are more severely unwell. These are: － co‑amoxiclav ‑  (onl
+2. source=nice_ng111 page=1 chunk=1 score=0.7494
+Pyelonephritis (acute): antimicrobial prescribing NICE guideline Published: 31 October 2018 www.nice.org.uk/guidance/ng111 © NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+3. source=nice_ng111 page=7 chunk=2 score=0.7370
+bacteria. Pyelonephritis (acute): antimicrobial prescribing (NG111) © NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- conditions#notice-of-rights). Page 7 of 32
+4. source=idsa_escmid_2010_uncomplicated page=1 chunk=4 score=0.7069
+women. Despite published guidelines for the optimal selection of an antimicrobial agent and duration of therapy, studies demonstrate a wide variation in prescribing practices [1–6]. The Infectious Diseases Society of Ame
+5. source=nice_ng111 page=6 chunk=2 score=0.7058
+who present with fever as outlined in the NICE guideline on fever in under 5s. 1.1.5 Offer an antibiotic (see the recommendations on choice of antibiotic) to people with acute pyelonephritis. Take account of: • the sever
+6. source=nice_ng111 page=31 chunk=1 score=0.6991
+Finding more information and committee details To find NICE guidance on related topics, including guidance in development, see the NICE topic page on antimicrobial stewardship. For full details of the evidence and the gu
+7. source=idsa_escmid_2010_uncomplicated page=15 chunk=6 score=0.6982
+pyelonephritis. As outlined in the previous guideline, a total course of 10–14 days of therapy is likely sufficient when using an oral b-lactam for treatment of uncomplicated pyelonephritis. Uncomplicated cystitis or pye
+8. source=idsa_escmid_2010_uncomplicated page=2 chunk=3 score=0.6954
+The Panel followed a process used in the development of other IDSA guidelines which included a sys- tematic weighting of the quality of the evidence and the grade of recommendation [32] (Table 1). A detailed description 
+9. source=nice_ng111 page=21 chunk=1 score=0.6939
+Committee discussion on choice of antibiotic • Based on evidence and experience, the committee agreed that acute pyelonephritis is a bacterial infection needing treatment with antibiotics that reach therapeutic concentra
+10. source=nice_ng111 page=4 chunk=1 score=0.6938
+This guideline should be read in conjunction with NG109 and NG112. Overview This guideline sets out an antimicrobial prescribing strategy for acute pyelonephritis (upper urinary tract infection) in children, young people
+
+TOP 10 WITHIN EXPECTED SOURCE:
+1. page=1 chunk=4 score=0.7069
+women. Despite published guidelines for the optimal selection of an antimicrobial agent and duration of therapy, studies demonstrate a wide variation in prescribing practices [1–6]. The Infectious Diseases Society of Ame
+2. page=15 chunk=6 score=0.6982
+pyelonephritis. As outlined in the previous guideline, a total course of 10–14 days of therapy is likely sufficient when using an oral b-lactam for treatment of uncomplicated pyelonephritis. Uncomplicated cystitis or pye
+3. page=2 chunk=3 score=0.6954
+The Panel followed a process used in the development of other IDSA guidelines which included a sys- tematic weighting of the quality of the evidence and the grade of recommendation [32] (Table 1). A detailed description 
+4. page=2 chunk=1 score=0.6892
+the ecological adverse effects of antimicrobial therapy (collateral damage) has increased, newer agents and different durations of therapy have been studied, and clinical outcomes have in- creasingly been reported. In ad
+5. page=16 chunk=6 score=0.6883
+Guidelines. for antimicrobial treatment of uncomplicated acute bacterial cystitis and acute pyelonephritis in women. nfectious Diseases Society of America (IDSA). Clin Infect Dis 1999; 29:745–58. 2. Huang ES, Stafford RS
+6. page=4 chunk=2 score=0.6869 <-- RELEVANT PAGE
+is recommended (B-III). i. Data are insufficient to modify the previous guideline recommendation for a duration of therapy of 10–14 days for treatment of pyelonephritis with a b-lactam agent. 13. Women with pyelonephriti
+7. page=16 chunk=3 score=0.6861
+in 80%–95% of cases is generally appropriate, de- pending on the measure. The following measures were identified as appropriate indicators for management of acute un- complicated UTI in women. d Use of a recommended anti
+8. page=1 chunk=1 score=0.6742
+I D S A G U I D E L I N E S International Clinical Practice Guidelines for the Treatment of Acute Uncomplicated Cystitis and Pyelonephritis in Women: A 2010 Update by the Infectious Diseases Society of America and the Eu
+9. page=15 chunk=7 score=0.6721
+history) and should be ac- companied by an aminoglycoside. Broad-spectrum antimicro- bial coverage should be tailored, as appropriate, on the basis of urine culture and susceptibility results. FUTURE DIRECTIONS AND RESEA
+10. page=18 chunk=3 score=0.6654
+et al. Gatifloxacin 200 mg or 400 mg once daily is as effective as ciprofloxacin 500 mg twice daily for the treatment of patients with acute pyelonephritis or complicated urinary tract infections. Int J Antimicrob Agents
+==============================================================================
+TEST: guideline wording
+QUESTION: What intravenous antimicrobial regimen should be used initially for women hospitalized with pyelonephritis?
+Relevant page rank in global top 20: 1
+Relevant page rank within source top 20: 1
+
+GLOBAL TOP 10:
+1. source=idsa_escmid_2010_uncomplicated page=4 chunk=2 score=0.7361 <-- RELEVANT PAGE
+is recommended (B-III). i. Data are insufficient to modify the previous guideline recommendation for a duration of therapy of 10–14 days for treatment of pyelonephritis with a b-lactam agent. 13. Women with pyelonephriti
+2. source=nice_ng111 page=23 chunk=3 score=0.7348
+a choice of first-line intravenous antibiotics, at usual doses, for people with acute pyelonephritis who are unable to take oral antibiotics due to vomiting, or are more severely unwell. These are: － co‑amoxiclav ‑  (onl
+3. source=idsa_escmid_2010_uncomplicated page=15 chunk=6 score=0.7335
+pyelonephritis. As outlined in the previous guideline, a total course of 10–14 days of therapy is likely sufficient when using an oral b-lactam for treatment of uncomplicated pyelonephritis. Uncomplicated cystitis or pye
+4. source=nice_ng111 page=30 chunk=2 score=0.7223
+group (no analysis reported). One systematic review (Eliakim-Raz et al. 2013), which compared antibiotic course lengths in adults with acute pyelonephritis and included the Talan et al. (2000) study, noted a shorter dura
+5. source=nice_ng111 page=16 chunk=2 score=0.7189
+antibiotics by 48 hours and consider stepping down to oral antibiotics where possible for a total of 10 days. If intravenous treatment is not possible, consider intramuscular treatment if suitable. Why the committee made
+6. source=nice_ng111 page=1 chunk=1 score=0.7171
+Pyelonephritis (acute): antimicrobial prescribing NICE guideline Published: 31 October 2018 www.nice.org.uk/guidance/ng111 © NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+7. source=nice_ng111 page=21 chunk=1 score=0.7106
+Committee discussion on choice of antibiotic • Based on evidence and experience, the committee agreed that acute pyelonephritis is a bacterial infection needing treatment with antibiotics that reach therapeutic concentra
+8. source=nice_ng111 page=27 chunk=2 score=0.7080
+route of administration • The evidence for route of antibiotic administration in acute pyelonephritis is based on 1 systematic review of 15 RCTs in adults and children (Pohl 2007). This review addressed different modes o
+9. source=idsa_2025_cuti_iv_to_oral page=16 chunk=2 score=0.7071
+A, von Dach E, Molina J, et al. Duration of antibiotic treatment for Gram- negative bacteremia - Systematic review and individual participant data (IPD) meta-analysis. EClinicalMedicine. Jan 2023;55:101750. doi:10.1016/j
+10. source=idsa_2025_cuti_iv_to_oral page=2 chunk=1 score=0.7035
+2  - The trials supporting this recommendation mostly excluded patients with indwelling urinary catheters, sepsis or septic shock, immunocompromised states, severe renal insufficiency, and functional or structural abnorm
+
+TOP 10 WITHIN EXPECTED SOURCE:
+1. page=4 chunk=2 score=0.7361 <-- RELEVANT PAGE
+is recommended (B-III). i. Data are insufficient to modify the previous guideline recommendation for a duration of therapy of 10–14 days for treatment of pyelonephritis with a b-lactam agent. 13. Women with pyelonephriti
+2. page=15 chunk=6 score=0.7335
+pyelonephritis. As outlined in the previous guideline, a total course of 10–14 days of therapy is likely sufficient when using an oral b-lactam for treatment of uncomplicated pyelonephritis. Uncomplicated cystitis or pye
+3. page=16 chunk=6 score=0.6973
+Guidelines. for antimicrobial treatment of uncomplicated acute bacterial cystitis and acute pyelonephritis in women. nfectious Diseases Society of America (IDSA). Clin Infect Dis 1999; 29:745–58. 2. Huang ES, Stafford RS
+4. page=3 chunk=4 score=0.6918
+choices for therapy when other recommended agents cannot be used (B-I). Other b-lactams, such as cephalexin, are less well studied but may also be appropriate in certain settings (B-III). The b-lactams generally have inf
+5. page=14 chunk=4 score=0.6846
+or a carbapenem. The choice between these agents should be based on local resistance data, and the regimen should be tailored on the basis of susceptibility results (B-III). Evidence Summary Optimal therapy for acute unc
+6. page=1 chunk=3 score=0.6829
+Congress of Obstetricians and Gynecologists, American Urological Association, Association of Medical Microbiology and Infectious Diseases–Canada, and the Society for Academic Emergency Medicine. The focus of this work is
+7. page=14 chunk=3 score=0.6815
+dose of a long-acting parenteral antimicrobial, such as 1 g of ceftriaxone (B-II) or a consolidated 24-h dose of an aminoglycoside, is recommended (B-III). 12. Oral b-lactam agents are less effective than other available
+8. page=2 chunk=3 score=0.6793
+The Panel followed a process used in the development of other IDSA guidelines which included a sys- tematic weighting of the quality of the evidence and the grade of recommendation [32] (Table 1). A detailed description 
+9. page=2 chunk=1 score=0.6670
+the ecological adverse effects of antimicrobial therapy (collateral damage) has increased, newer agents and different durations of therapy have been studied, and clinical outcomes have in- creasingly been reported. In ad
+10. page=15 chunk=7 score=0.6633
+history) and should be ac- companied by an aminoglycoside. Broad-spectrum antimicro- bial coverage should be tailored, as appropriate, on the basis of urine culture and susceptibility results. FUTURE DIRECTIONS AND RESEA
+==============================================================================
+TEST: recommendation wording
+QUESTION: Which initial IV antimicrobial options are recommended for hospitalized women with pyelonephritis in the IDSA/ESCMID guideline?
+Relevant page rank in global top 20: 10
+Relevant page rank within source top 20: 4
+
+GLOBAL TOP 10:
+1. source=nice_ng111 page=23 chunk=3 score=0.7232
+a choice of first-line intravenous antibiotics, at usual doses, for people with acute pyelonephritis who are unable to take oral antibiotics due to vomiting, or are more severely unwell. These are: － co‑amoxiclav ‑  (onl
+2. source=idsa_escmid_2010_uncomplicated page=15 chunk=6 score=0.7173
+pyelonephritis. As outlined in the previous guideline, a total course of 10–14 days of therapy is likely sufficient when using an oral b-lactam for treatment of uncomplicated pyelonephritis. Uncomplicated cystitis or pye
+3. source=nice_ng111 page=1 chunk=1 score=0.7173
+Pyelonephritis (acute): antimicrobial prescribing NICE guideline Published: 31 October 2018 www.nice.org.uk/guidance/ng111 © NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+4. source=idsa_escmid_2010_uncomplicated page=2 chunk=3 score=0.7072
+The Panel followed a process used in the development of other IDSA guidelines which included a sys- tematic weighting of the quality of the evidence and the grade of recommendation [32] (Table 1). A detailed description 
+5. source=nice_ng111 page=4 chunk=1 score=0.6990
+This guideline should be read in conjunction with NG109 and NG112. Overview This guideline sets out an antimicrobial prescribing strategy for acute pyelonephritis (upper urinary tract infection) in children, young people
+6. source=nice_ng111 page=7 chunk=2 score=0.6978
+bacteria. Pyelonephritis (acute): antimicrobial prescribing (NG111) © NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- conditions#notice-of-rights). Page 7 of 32
+7. source=idsa_2025_cuti_iv_to_oral page=15 chunk=3 score=0.6884
+of acute uncomplicated pyelonephritis in women. A randomised controlled trial. Emerg Med J. Jan 2002;19(1):19-22. doi:10.1136/emj.19.1.19 8. Lojanapiwat B, Nimitvilai S, Bamroongya M, et al. Oral sitafloxacin vs intraven
+8. source=idsa_escmid_2010_uncomplicated page=3 chunk=4 score=0.6882
+choices for therapy when other recommended agents cannot be used (B-I). Other b-lactams, such as cephalexin, are less well studied but may also be appropriate in certain settings (B-III). The b-lactams generally have inf
+9. source=nice_ng111 page=31 chunk=1 score=0.6881
+Finding more information and committee details To find NICE guidance on related topics, including guidance in development, see the NICE topic page on antimicrobial stewardship. For full details of the evidence and the gu
+10. source=idsa_escmid_2010_uncomplicated page=4 chunk=2 score=0.6816 <-- RELEVANT PAGE
+is recommended (B-III). i. Data are insufficient to modify the previous guideline recommendation for a duration of therapy of 10–14 days for treatment of pyelonephritis with a b-lactam agent. 13. Women with pyelonephriti
+
+TOP 10 WITHIN EXPECTED SOURCE:
+1. page=15 chunk=6 score=0.7173
+pyelonephritis. As outlined in the previous guideline, a total course of 10–14 days of therapy is likely sufficient when using an oral b-lactam for treatment of uncomplicated pyelonephritis. Uncomplicated cystitis or pye
+2. page=2 chunk=3 score=0.7072
+The Panel followed a process used in the development of other IDSA guidelines which included a sys- tematic weighting of the quality of the evidence and the grade of recommendation [32] (Table 1). A detailed description 
+3. page=3 chunk=4 score=0.6882
+choices for therapy when other recommended agents cannot be used (B-I). Other b-lactams, such as cephalexin, are less well studied but may also be appropriate in certain settings (B-III). The b-lactams generally have inf
+4. page=4 chunk=2 score=0.6816 <-- RELEVANT PAGE
+is recommended (B-III). i. Data are insufficient to modify the previous guideline recommendation for a duration of therapy of 10–14 days for treatment of pyelonephritis with a b-lactam agent. 13. Women with pyelonephriti
+5. page=1 chunk=4 score=0.6747
+women. Despite published guidelines for the optimal selection of an antimicrobial agent and duration of therapy, studies demonstrate a wide variation in prescribing practices [1–6]. The Infectious Diseases Society of Ame
+6. page=16 chunk=6 score=0.6745
+Guidelines. for antimicrobial treatment of uncomplicated acute bacterial cystitis and acute pyelonephritis in women. nfectious Diseases Society of America (IDSA). Clin Infect Dis 1999; 29:745–58. 2. Huang ES, Stafford RS
+7. page=14 chunk=4 score=0.6685
+or a carbapenem. The choice between these agents should be based on local resistance data, and the regimen should be tailored on the basis of susceptibility results (B-III). Evidence Summary Optimal therapy for acute unc
+8. page=2 chunk=4 score=0.6430
+160/800 mg (one DS tablet) bid X 3 days (avoid if resistance prevalence is known to exceed 20 or if used for UTI in previous 3 months) OR Fosfomycin trometamol 3 gm single dose (lower efficacy than some other recommended
+9. page=2 chunk=1 score=0.6359
+the ecological adverse effects of antimicrobial therapy (collateral damage) has increased, newer agents and different durations of therapy have been studied, and clinical outcomes have in- creasingly been reported. In ad
+10. page=1 chunk=3 score=0.6341
+Congress of Obstetricians and Gynecologists, American Urological Association, Association of Medical Microbiology and Infectious Diseases–Canada, and the Society for Academic Emergency Medicine. The focus of this work is
+==============================================================================
+TEST: specific regimen terms
+QUESTION: For hospitalized women with pyelonephritis, which initial fluoroquinolone, aminoglycoside, cephalosporin, penicillin, or carbapenem regimens are discussed?
+Relevant page rank in global top 20: 1
+Relevant page rank within source top 20: 1
+
+GLOBAL TOP 10:
+1. source=idsa_escmid_2010_uncomplicated page=4 chunk=2 score=0.7521 <-- RELEVANT PAGE
+is recommended (B-III). i. Data are insufficient to modify the previous guideline recommendation for a duration of therapy of 10–14 days for treatment of pyelonephritis with a b-lactam agent. 13. Women with pyelonephriti
+2. source=idsa_escmid_2010_uncomplicated page=15 chunk=2 score=0.7497
+demonstrated that initial therapy with intravenous ceftriaxone (1 g for 3 days) was comparable to 1 dose of intravenous ceftriaxone (1 g) followed by oral cefixime (400 mg once daily for 2 days). Both groups received a 1
+3. source=idsa_2025_cuti_duration page=16 chunk=1 score=0.7445
+16  14. Sandberg T, Skoog G, Hermansson AB, et al. Ciprofloxacin for 7 days versus 14 days in women with acute pyelonephritis: a randomised, open-label and double-blind, placebo- controlled, non-inferiority trial. Lancet
+4. source=idsa_escmid_2010_uncomplicated page=15 chunk=1 score=0.7381
+a mixed population of men and women with acute pyelone- phritis and/or complicated UTIs, but they do lend additional support for a 5–7-day fluoroquinolone regimen versus the tra- ditional 14-day regimen for mild to moder
+5. source=idsa_escmid_2010_uncomplicated page=15 chunk=5 score=0.7358
+treat- ment of pyelonephritis, on the basis of studies outlined in the previous guideline demonstrating inferior efficacy and higher relapse rates compared with trimethoprim-sulfamethoxazole [1]. Those studies primarily 
+6. source=nice_ng111 page=22 chunk=2 score=0.7333
+acute pyelonephritis • Based on evidence, their experience and resistance data, the committee agreed to recommend a choice of first-line oral antibiotics, at usual doses for acute pyelonephritis. These are: － cefalexin (
+7. source=nice_ng111 page=23 chunk=3 score=0.7249
+a choice of first-line intravenous antibiotics, at usual doses, for people with acute pyelonephritis who are unable to take oral antibiotics due to vomiting, or are more severely unwell. These are: － co‑amoxiclav ‑  (onl
+8. source=nice_ng111 page=18 chunk=3 score=0.7154
+or complicated UTI. Very low to high quality evidence found that these cephalosporins and carbapenems were equally effective. • Very low quality evidence from a small single RCT (Moramezi et al. 2008) in pregnant women w
+9. source=idsa_2025_cuti_iv_to_oral page=15 chunk=3 score=0.7151
+of acute uncomplicated pyelonephritis in women. A randomised controlled trial. Emerg Med J. Jan 2002;19(1):19-22. doi:10.1136/emj.19.1.19 8. Lojanapiwat B, Nimitvilai S, Bamroongya M, et al. Oral sitafloxacin vs intraven
+10. source=idsa_2025_cuti_duration page=5 chunk=4 score=0.7111
+regimen in hospitalized patients before switching to an effective fluoroquinolone as soon as the results of urine culture became available, for 7 versus 14 days total therapy.11,13 Talan et al. (2000) compared 7 days of 
+
+TOP 10 WITHIN EXPECTED SOURCE:
+1. page=4 chunk=2 score=0.7521 <-- RELEVANT PAGE
+is recommended (B-III). i. Data are insufficient to modify the previous guideline recommendation for a duration of therapy of 10–14 days for treatment of pyelonephritis with a b-lactam agent. 13. Women with pyelonephriti
+2. page=15 chunk=2 score=0.7497
+demonstrated that initial therapy with intravenous ceftriaxone (1 g for 3 days) was comparable to 1 dose of intravenous ceftriaxone (1 g) followed by oral cefixime (400 mg once daily for 2 days). Both groups received a 1
+3. page=15 chunk=1 score=0.7381
+a mixed population of men and women with acute pyelone- phritis and/or complicated UTIs, but they do lend additional support for a 5–7-day fluoroquinolone regimen versus the tra- ditional 14-day regimen for mild to moder
+4. page=15 chunk=5 score=0.7358
+treat- ment of pyelonephritis, on the basis of studies outlined in the previous guideline demonstrating inferior efficacy and higher relapse rates compared with trimethoprim-sulfamethoxazole [1]. Those studies primarily 
+5. page=14 chunk=3 score=0.7086
+dose of a long-acting parenteral antimicrobial, such as 1 g of ceftriaxone (B-II) or a consolidated 24-h dose of an aminoglycoside, is recommended (B-III). 12. Oral b-lactam agents are less effective than other available
+6. page=5 chunk=6 score=0.6992
+use of fluoroquinolones for respiratory infections could have a greater impact on fluoroquinolone resistance, limiting use for UTIs may also mitigate increasing fluo- roquinolone resistance [30]. Clinical Questions Addre
+7. page=18 chunk=3 score=0.6969
+et al. Gatifloxacin 200 mg or 400 mg once daily is as effective as ciprofloxacin 500 mg twice daily for the treatment of patients with acute pyelonephritis or complicated urinary tract infections. Int J Antimicrob Agents
+8. page=3 chunk=6 score=0.6871
+to make a recommendation about what fluoroquinolone resistance level requires an alternative agent in conjunction with or to replace a fluoroquinolone for treatment of pyelonephritis. 10. A once-daily oral fluoroquinolon
+9. page=2 chunk=3 score=0.6866
+The Panel followed a process used in the development of other IDSA guidelines which included a sys- tematic weighting of the quality of the evidence and the grade of recommendation [32] (Table 1). A detailed description 
+10. page=18 chunk=2 score=0.6824
+Dis 2004; 39:75–80. 54. Leigh AP, Nemeth MA, Keyserling CH, Hotary LH, Tack KJ. Cefdinir versus cefaclor in the treatment of uncomplicated urinary tract in- fection. Clin Ther 2000; 22:818–25. 55. Talan DA, Stamm WE, Hoo

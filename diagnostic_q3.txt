@@ -1,0 +1,285 @@
+=== A. CHUNKS ON idsa_escmid_2010_uncomplicated PAGE 4: 7 ===
+----------------------------------------------------------------------
+chunk_id=idsa_escmid_2010_uncomplicated-p0004-c001 length=949
+keywords present: ['aminoglycoside', 'pyelonephritis']
+11.
+Oral trimethoprim-sulfamethoxazole (160/800 mg [1
+double-strength
+tablet]
+twice-daily
+for
+14
+days)
+is
+an
+appropriate choice for therapy if the uropathogen is known
+to be susceptible (A-I). If trimethoprim-sulfamethoxazole is
+used when the
+susceptibility
+is
+not
+known,
+an
+initial
+intravenous dose of a long-acting parenteral antimicrobial,
+such as 1 g of ceftriaxone (B-II) or a consolidated 24-h dose of
+an aminoglycoside, is recommended (B-III).
+12.
+Oral b-lactam agents are less effective than other
+available agents for treatment of pyelonephritis (B-III). If an
+oral b-lactam agent is used, an initial intravenous dose of a
+long-acting parenteral antimicrobial, such as 1 g of ceftriaxone
+(B-II) or a consolidated 24-h dose of an aminoglycoside, is
+recommended (B-III).
+i. Data are insufficient to modify the previous guideline
+recommendation for a duration of therapy of 10–14 days for
+treatment of pyelonephritis with a b-lactam agent.
+13.
+----------------------------------------------------------------------
+chunk_id=idsa_escmid_2010_uncomplicated-p0004-c002 length=976
+keywords present: ['carbapenem', 'aminoglycoside', 'fluoroquinolone', 'hospitalization', 'pyelonephritis']
+is
+recommended (B-III).
+i. Data are insufficient to modify the previous guideline
+recommendation for a duration of therapy of 10–14 days for
+treatment of pyelonephritis with a b-lactam agent.
+13.
+Women with pyelonephritis requiring hospitalization
+should be initially treated with an intravenous antimicrobial
+regimen, such as a fluoroquinolone; an aminoglycoside, with
+or without ampicillin; an extended-spectrum cephalosporin
+or
+extended-spectrum
+penicillin,
+with
+or
+without
+an
+aminoglycoside; or a carbapenem. The choice between these
+agents should be based on local resistance data, and the
+regimen should be tailored on the basis of susceptibility results
+(B-III).
+INTRODUCTION
+The focus of this guideline is management of women with acute
+uncomplicated cystitis and pyelonephritis who are not pregnant
+and have no known urological abnormalities or co-morbidities.
+An optimal approach to therapy includes consideration of an-
+timicrobial resistance and collateral damage.
+----------------------------------------------------------------------
+chunk_id=idsa_escmid_2010_uncomplicated-p0004-c003 length=1195
+keywords present: []
+who are not pregnant
+and have no known urological abnormalities or co-morbidities.
+An optimal approach to therapy includes consideration of an-
+timicrobial resistance and collateral damage.
+Consideration of Antimicrobial Resistance
+The microbial spectrum of uncomplicated cystitis and pyelo-
+nephritis consists mainly of Escherichia coli (75%–95%), with
+occasional other species of Enterobacteriaceae, such as Proteus
+mirabilis and Klebsiella pneumoniae, and Staphylococcus sapro-
+phyticus. Other gram-negative and gram-positive species are
+rarely isolated in uncomplicated UTIs. Therefore, local antimi-
+crobial susceptibility patterns of E. coli in particular should be
+considered
+in
+empirical
+antimicrobial
+selection
+for
+un-
+complicated UTIs. Since the resistance patterns of E. coli strains
+causing uncomplicated UTI varies considerably between regions
+and countries, a specific treatment recommendation may not be
+universally suitable for all regions or countries.
+Active surveillance studies of in vitro susceptibility of ur-
+opathogens in women with uncomplicated cystitis are helpful
+in making decisions about empirical therapy. Four large studies
+reporting in vitro susceptibility of E.
+----------------------------------------------------------------------
+chunk_id=idsa_escmid_2010_uncomplicated-p0004-c004 length=1090
+keywords present: ['fluoroquinolone']
+of in vitro susceptibility of ur-
+opathogens in women with uncomplicated cystitis are helpful
+in making decisions about empirical therapy. Four large studies
+reporting in vitro susceptibility of E. coli causing un-
+complicated UTI in North America and Europe were reviewed
+[8–11]. All of these demonstrate considerable geographic var-
+iability in susceptibility. For example, resistance rates for all
+antimicrobials were higher in US medical centers than in
+Canadian medical centers and were usually higher in Portugal
+and Spain than other European countries. In general, resistance
+rates .20% were reported in all regions for ampicillin, and in
+many countries and regions for trimethoprim with or without
+sulfamethoxazole. Fluoroquinolone resistance rates were still
+,10% in most parts of North America and Europe, but there
+was a clear trend for increasing resistance compared with
+previous years. Moreover, the resistance data for nalidixic acid
+in these studies suggest that .10% (in some countries, .20%)
+of the E. coli strains have acquired resistance genes for quino-
+lones [10, 11].
+----------------------------------------------------------------------
+chunk_id=idsa_escmid_2010_uncomplicated-p0004-c005 length=1180
+keywords present: []
+years. Moreover, the resistance data for nalidixic acid
+in these studies suggest that .10% (in some countries, .20%)
+of the E. coli strains have acquired resistance genes for quino-
+lones [10, 11]. First- and second-generation oral cepha-
+losporins and amoxicillin-clavulanic acid also show regional
+variability, but the resistance rates were generally ,10%. De-
+spite wide variability in antimicrobial susceptibility among the
+different countries studied, nitrofurantoin, fosfomycin, and
+mecillinam (the latter 2 not tested in the Canadian study) had
+good in vitro activity in all the countries investigated. Thus,
+these 3 antimicrobials could be considered appropriate anti-
+microbials for empirical therapy in most regions [8–11]. Given
+a trend toward increasing resistance, compared with previous
+years, for most antimicrobials, continued monitoring of this
+data to evaluate rates over time is necessary for sustained op-
+timization of empirical therapy [12].
+Because local in vitro resistance rates are not always known,
+and change over time is anticipated, identification of individual
+predictors of resistance can also be useful to informing empirical
+antimicrobial choice.
+----------------------------------------------------------------------
+chunk_id=idsa_escmid_2010_uncomplicated-p0004-c006 length=1187
+keywords present: []
+resistance rates are not always known,
+and change over time is anticipated, identification of individual
+predictors of resistance can also be useful to informing empirical
+antimicrobial choice. In 2 studies evaluating epidemiological
+predictors of resistance, the use of trimethoprim-sulfamethox-
+azole in the preceding 3–6 months was an independent risk
+factor for trimethoprim-sulfamethoxazole resistance in women
+with acute uncomplicated cystitis [13, 14]. In addition, 2 US-
+based studies demonstrated that travel outside the United States
+in the preceding 3–6 months was independently associated with
+trimethoprim-sulfamethoxazole resistance [15, 16]. Predictors
+of resistance to other cystitis antimicrobials are not as well
+studied but in general support the findings that exposure to the
+drug or to an area with endemic resistance are important factors
+to consider [17, 18]. Local resistance rates reported in hospital
+antibiograms are often skewed by cultures of samples obtained
+from inpatients or those with complicated infection and may
+not predict susceptibilities in women with uncomplicated
+community-acquired infection, in whom resistance rates tend to
+be lower [18, 19].
+----------------------------------------------------------------------
+chunk_id=idsa_escmid_2010_uncomplicated-p0004-c007 length=546
+keywords present: []
+inpatients or those with complicated infection and may
+not predict susceptibilities in women with uncomplicated
+community-acquired infection, in whom resistance rates tend to
+be lower [18, 19]. Prospective and unbiased resistance sur-
+veillance of uncomplicated uropathogens at the local practice
+and/or health care system levels is critical for informing
+empirical antimicrobial decisions. In the absence of such
+e106
+d CID 2011:52 (1 March)
+d Gupta et al
+Downloaded from academic.oup.com/cid/article/52/5/e103/388285 by guest on 22 October 2026
+
+=== B. TOP 10 WITHIN SOURCE ===
+----------------------------------------------------------------------
+rank=1 page=1 chunk=4 score=0.7069
+women. Despite
+published guidelines for the optimal selection of an
+antimicrobial agent and duration of therapy, studies
+demonstrate a wide variation in prescribing practices
+[1–6]. The Infectious Diseases Society of America (ID-
+SA) published a clinical practice guideline on the
+treatment of women with acute uncomplicated cystitis
+and pyelonephritis in 1999 [1]. Since then, antimicrobial
+resistan
+----------------------------------------------------------------------
+rank=2 page=15 chunk=6 score=0.6982
+pyelonephritis.
+As outlined in the previous guideline, a total course of 10–14
+days of therapy is likely sufficient when using an oral b-lactam
+for treatment of uncomplicated pyelonephritis.
+Uncomplicated cystitis or pyelonephritis due to MRSA is
+uncommon, and at this time, there are insufficient data to rec-
+ommend use of an MRSA-active agent for empirical therapy of
+uncomplicated UTI. Recommenda
+----------------------------------------------------------------------
+rank=3 page=2 chunk=3 score=0.6954
+The Panel followed a process used in the
+development of other IDSA guidelines which included a sys-
+tematic weighting of the quality of the evidence and the grade of
+recommendation [32] (Table 1). A detailed description of the
+methods, background, and evidence summaries that support
+Prescribe a recommended antimicrobial
+Consider alternate diagnosis (such
+as pyelonephritis or complicated
+UTI) & tre
+----------------------------------------------------------------------
+rank=4 page=2 chunk=1 score=0.6892
+the ecological adverse effects of antimicrobial therapy (collateral
+damage) has increased, newer agents and different durations of
+therapy have been studied, and clinical outcomes have in-
+creasingly been reported. In addition, women with uropath-
+ogens resistant to the treatment drug have been included in
+some studies, allowing for estimations of expected response rates
+in a ‘‘real-life’’ clinica
+----------------------------------------------------------------------
+rank=5 page=16 chunk=6 score=0.6883
+Guidelines. for antimicrobial treatment of uncomplicated acute
+bacterial cystitis and acute pyelonephritis in women. nfectious Diseases
+Society of America (IDSA). Clin Infect Dis 1999; 29:745–58.
+2. Huang ES, Stafford RS. National patterns in the treatment of urinary
+tract infections in women by ambulatory care physicians. Archives of
+internal medicine 2002; 162:41–7.
+3. Kahan NR, Chinitz DP, Kaha
+----------------------------------------------------------------------
+rank=6 page=4 chunk=2 score=0.6869  <-- RELEVANT PAGE
+is
+recommended (B-III).
+i. Data are insufficient to modify the previous guideline
+recommendation for a duration of therapy of 10–14 days for
+treatment of pyelonephritis with a b-lactam agent.
+13.
+Women with pyelonephritis requiring hospitalization
+should be initially treated with an intravenous antimicrobial
+regimen, such as a fluoroquinolone; an aminoglycoside, with
+or without ampicillin; an exte
+----------------------------------------------------------------------
+rank=7 page=16 chunk=3 score=0.6861
+in 80%–95% of cases is generally appropriate, de-
+pending on the measure. The following measures were identified
+as appropriate indicators for management of acute un-
+complicated UTI in women.
+d Use of a recommended antimicrobial for treatment of
+uncomplicated cystitis in cases in which it is not prohibited
+because of allergy history or availability
+d Use offluoroquinolonesfor treatment of acute u
+----------------------------------------------------------------------
+rank=8 page=1 chunk=1 score=0.6742
+I D S A G U I D E L I N E S
+International Clinical Practice Guidelines for the
+Treatment of Acute Uncomplicated Cystitis and
+Pyelonephritis in Women: A 2010 Update by the
+Infectious Diseases Society of America and the
+European Society for Microbiology and
+Infectious Diseases
+Kalpana Gupta,1 Thomas M. Hooton,2 Kurt G. Naber,9 Bjo¨rn Wullt,10 Richard Colgan,3 Loren G. Miller,4
+Gregory J. Moran,5 Lin
+----------------------------------------------------------------------
+rank=9 page=15 chunk=7 score=0.6721
+history) and should be ac-
+companied by an aminoglycoside. Broad-spectrum antimicro-
+bial coverage should be tailored, as appropriate, on the basis of
+urine culture and susceptibility results.
+FUTURE DIRECTIONS AND RESEARCH GAPS IN
+MANAGEMENT OF ACUTE UNCOMPLICATED
+CYSTITIS AND PYELONEPHRITIS
+As listed below, the panel identified several areas warranting
+further investigation.
+d Better understandi
+----------------------------------------------------------------------
+rank=10 page=18 chunk=3 score=0.6654
+et al. Gatifloxacin 200 mg or 400
+mg once daily is as effective as ciprofloxacin 500 mg twice daily for the
+treatment of patients with acute pyelonephritis or complicated urinary
+tract infections. Int J Antimicrob Agents 2004; 23(Suppl. 1):S41–53.
+59. Cronberg S, Banke S, Bergman B, et al. Fewer bacterial relapses after
+oral treatment with norfloxacin than with ceftibuten in acute pyelo-
+nephritis

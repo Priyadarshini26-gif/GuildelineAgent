@@ -1,3 +1,4 @@
+
 """Evidence-grounded answer synthesis for ConstraintGuard-ED.
 
 This first version is extractive: it presents retrieved guideline passages
@@ -22,7 +23,7 @@ def synthesize_answer(evidence_response: dict[str, Any]) -> dict[str, Any]:
     if not isinstance(evidence, list):
         raise ValueError("Evidence must be provided as a list.")
 
-    # No evidence means no clinical answer should be generated.
+    # Keep only evidence items containing non-empty text.
     usable_evidence = [
         item
         for item in evidence
@@ -31,6 +32,7 @@ def synthesize_answer(evidence_response: dict[str, Any]) -> dict[str, Any]:
         and item["text"].strip()
     ]
 
+    # Do not generate an answer when no usable evidence is available.
     if not usable_evidence:
         return {
             "question": question,
@@ -50,10 +52,39 @@ def synthesize_answer(evidence_response: dict[str, Any]) -> dict[str, Any]:
     answer_sections = []
 
     for number, item in enumerate(usable_evidence, start=1):
-        source_id = item.get("source_id", "unknown")
-        source_title = item.get("source_title", "Unknown source")
-        page_number = item.get("page_number")
-        chunk_id = item.get("chunk_id", "unknown")
+        # Retrieval results may store citation fields at the top level
+        # or inside a nested metadata dictionary.
+        metadata = item.get("metadata", {})
+        if not isinstance(metadata, dict):
+            metadata = {}
+
+        source_id = item.get(
+            "source_id",
+            metadata.get("source_id", "unknown"),
+        )
+        source_title = item.get(
+            "source_title",
+            metadata.get("source_title", "Unknown source"),
+        )
+        page_number = item.get(
+            "page_number",
+            metadata.get("page_number"),
+        )
+        chunk_id = item.get(
+            "chunk_id",
+            metadata.get("chunk_id", "unknown"),
+        )
+
+        # Use safe fallbacks for missing or empty citation identifiers.
+        if not isinstance(source_id, str) or not source_id.strip():
+            source_id = "unknown"
+
+        if not isinstance(source_title, str) or not source_title.strip():
+            source_title = "Unknown source"
+
+        if not isinstance(chunk_id, str) or not chunk_id.strip():
+            chunk_id = "unknown"
+
         passage = item["text"].strip()
 
         citation = {
@@ -82,12 +113,16 @@ def synthesize_answer(evidence_response: dict[str, Any]) -> dict[str, Any]:
     )
 
     limitations = [
-        "Passages are presented as retrieved; they have not been "
-        "independently validated for clinical applicability.",
+        (
+            "Passages are presented as retrieved; they have not been "
+            "independently validated for clinical applicability."
+        ),
         "The system has not yet verified patient-specific constraints.",
-        "Different guidelines may address different populations or "
-        "clinical circumstances. Do not assume their recommendations "
-        "are interchangeable.",
+        (
+            "Different guidelines may address different populations or "
+            "clinical circumstances. Do not assume their recommendations "
+            "are interchangeable."
+        ),
     ]
 
     return {

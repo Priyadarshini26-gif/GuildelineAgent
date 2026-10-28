@@ -1,0 +1,653 @@
+{
+  "project": "ConstraintGuard-ED",
+  "evaluation_note": "Retrieval matching only. A source-and-page match does not establish clinical correctness, population applicability, or safety. Rank is the one-based position in the retrieved evidence list. Reciprocal rank is 1/rank for the first match and zero when the target is absent. Supporting-page hits are reported separately and do not count as primary-page hits.",
+  "primary_summary": {
+    "cases": 5,
+    "source_and_page_hits": 3,
+    "hit_rate": 0.6,
+    "mean_reciprocal_rank": 0.6,
+    "mean_rank_when_found": 1.0
+  },
+  "supporting_summary": {
+    "applicable_cases": 1,
+    "supporting_source_and_page_hits": 1,
+    "hit_rate": 1.0,
+    "mean_reciprocal_rank": 1.0,
+    "mean_rank_when_found": 1.0
+  },
+  "primary_results": [
+    {
+      "case_id": "CG-01",
+      "evaluation_type": "primary",
+      "question": "In people aged 16 and over with acute pyelonephritis, what urine investigation does NICE recommend before antibiotics?",
+      "topic": "diagnosis_and_culture",
+      "expected_source_id": "nice_ng111",
+      "expected_pdf_pages": [
+        6
+      ],
+      "target_source_and_page_found": true,
+      "primary_rank": 1,
+      "primary_reciprocal_rank": 1.0,
+      "matching_evidence": [
+        {
+          "rank": 1,
+          "reciprocal_rank": 1.0,
+          "source_id": "nice_ng111",
+          "page_number": 6,
+          "chunk_id": null
+        },
+        {
+          "rank": 4,
+          "reciprocal_rank": 0.25,
+          "source_id": "nice_ng111",
+          "page_number": 6,
+          "chunk_id": null
+        }
+      ],
+      "expected_supporting_pdf_pages": [],
+      "supporting_page_evaluation_applicable": false,
+      "supporting_source_and_page_found": null,
+      "supporting_rank": null,
+      "supporting_reciprocal_rank": null,
+      "supporting_matching_evidence": [],
+      "retrieved_evidence_count": 8,
+      "retrieved_citations": [
+        {
+          "rank": 1,
+          "source_id": "nice_ng111",
+          "page_number": 6,
+          "chunk_id": null
+        },
+        {
+          "rank": 2,
+          "source_id": "nice_ng111",
+          "page_number": 21,
+          "chunk_id": null
+        },
+        {
+          "rank": 3,
+          "source_id": "nice_ng111",
+          "page_number": 12,
+          "chunk_id": null
+        },
+        {
+          "rank": 4,
+          "source_id": "nice_ng111",
+          "page_number": 6,
+          "chunk_id": null
+        },
+        {
+          "rank": 5,
+          "source_id": "nice_ng111",
+          "page_number": 21,
+          "chunk_id": null
+        },
+        {
+          "rank": 6,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 14,
+          "chunk_id": null
+        },
+        {
+          "rank": 7,
+          "source_id": "nice_ng111",
+          "page_number": 1,
+          "chunk_id": null
+        },
+        {
+          "rank": 8,
+          "source_id": "nice_ng111",
+          "page_number": 8,
+          "chunk_id": null
+        }
+      ],
+      "retrieval_status": "evidence_retrieved",
+      "expansion_triggered": true,
+      "expansion_reasons": [
+        "patient_context_missing"
+      ],
+      "constraint_status": "context_incomplete",
+      "answer_status": "answered",
+      "scope_note": null
+    },
+    {
+      "case_id": "CG-02",
+      "evaluation_type": "primary",
+      "question": "When should NICE-recommended IV antibiotics be reviewed, and what should be considered at that review?",
+      "topic": "iv_to_oral_transition",
+      "expected_source_id": "nice_ng111",
+      "expected_pdf_pages": [
+        12
+      ],
+      "target_source_and_page_found": false,
+      "primary_rank": null,
+      "primary_reciprocal_rank": 0.0,
+      "matching_evidence": [],
+      "expected_supporting_pdf_pages": [],
+      "supporting_page_evaluation_applicable": false,
+      "supporting_source_and_page_found": null,
+      "supporting_rank": null,
+      "supporting_reciprocal_rank": null,
+      "supporting_matching_evidence": [],
+      "retrieved_evidence_count": 8,
+      "retrieved_citations": [
+        {
+          "rank": 1,
+          "source_id": "nice_ng111",
+          "page_number": 16,
+          "chunk_id": null
+        },
+        {
+          "rank": 2,
+          "source_id": "idsa_2025_cuti_iv_to_oral",
+          "page_number": 13,
+          "chunk_id": null
+        },
+        {
+          "rank": 3,
+          "source_id": "nice_ng111",
+          "page_number": 9,
+          "chunk_id": null
+        },
+        {
+          "rank": 4,
+          "source_id": "nice_ng111",
+          "page_number": 24,
+          "chunk_id": null
+        },
+        {
+          "rank": 5,
+          "source_id": "nice_ng111",
+          "page_number": 24,
+          "chunk_id": null
+        },
+        {
+          "rank": 6,
+          "source_id": "idsa_2025_cuti_duration",
+          "page_number": 13,
+          "chunk_id": null
+        },
+        {
+          "rank": 7,
+          "source_id": "nice_ng111",
+          "page_number": 26,
+          "chunk_id": null
+        },
+        {
+          "rank": 8,
+          "source_id": "nice_ng111",
+          "page_number": 22,
+          "chunk_id": null
+        }
+      ],
+      "retrieval_status": "evidence_retrieved",
+      "expansion_triggered": true,
+      "expansion_reasons": [
+        "risk_terms_detected",
+        "patient_context_missing"
+      ],
+      "constraint_status": "context_incomplete",
+      "answer_status": "answered",
+      "scope_note": "Population-specific diagnostic variant. Page 12 contains both the pregnant-women table (Table 2) and the under-16 table (Table 3). Evaluate the 48-hour review passage with its population context preserved."
+    },
+    {
+      "case_id": "CG-03",
+      "evaluation_type": "primary",
+      "question": "When urine culture results show resistance, how does NICE recommend changing antibiotic treatment?",
+      "topic": "culture_and_susceptibility",
+      "expected_source_id": "nice_ng111",
+      "expected_pdf_pages": [
+        7
+      ],
+      "target_source_and_page_found": false,
+      "primary_rank": null,
+      "primary_reciprocal_rank": 0.0,
+      "matching_evidence": [],
+      "expected_supporting_pdf_pages": [
+        22
+      ],
+      "supporting_page_evaluation_applicable": true,
+      "supporting_source_and_page_found": true,
+      "supporting_rank": 1,
+      "supporting_reciprocal_rank": 1.0,
+      "supporting_matching_evidence": [
+        {
+          "rank": 1,
+          "reciprocal_rank": 1.0,
+          "source_id": "nice_ng111",
+          "page_number": 22,
+          "chunk_id": null
+        }
+      ],
+      "retrieved_evidence_count": 8,
+      "retrieved_citations": [
+        {
+          "rank": 1,
+          "source_id": "nice_ng111",
+          "page_number": 22,
+          "chunk_id": null
+        },
+        {
+          "rank": 2,
+          "source_id": "idsa_2025_cuti_duration",
+          "page_number": 13,
+          "chunk_id": null
+        },
+        {
+          "rank": 3,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 4,
+          "chunk_id": null
+        },
+        {
+          "rank": 4,
+          "source_id": "idsa_2025_cuti_iv_to_oral",
+          "page_number": 2,
+          "chunk_id": null
+        },
+        {
+          "rank": 5,
+          "source_id": "idsa_2025_cuti_duration",
+          "page_number": 13,
+          "chunk_id": null
+        },
+        {
+          "rank": 6,
+          "source_id": "nice_ng111",
+          "page_number": 16,
+          "chunk_id": null
+        },
+        {
+          "rank": 7,
+          "source_id": "idsa_2025_cuti_duration",
+          "page_number": 2,
+          "chunk_id": null
+        },
+        {
+          "rank": 8,
+          "source_id": "idsa_2025_cuti_iv_to_oral",
+          "page_number": 17,
+          "chunk_id": null
+        }
+      ],
+      "retrieval_status": "evidence_retrieved",
+      "expansion_triggered": true,
+      "expansion_reasons": [
+        "risk_terms_detected",
+        "patient_context_missing"
+      ],
+      "constraint_status": "context_incomplete",
+      "answer_status": "answered",
+      "scope_note": null
+    },
+    {
+      "case_id": "CG-04",
+      "evaluation_type": "primary",
+      "question": "According to the IDSA/ESCMID guideline, what should guide the choice and adjustment of initial empirical treatment for pyelonephritis?",
+      "topic": "empirical_treatment",
+      "expected_source_id": "idsa_escmid_2010_uncomplicated",
+      "expected_pdf_pages": [
+        14
+      ],
+      "target_source_and_page_found": true,
+      "primary_rank": 1,
+      "primary_reciprocal_rank": 1.0,
+      "matching_evidence": [
+        {
+          "rank": 1,
+          "reciprocal_rank": 1.0,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 14,
+          "chunk_id": null
+        }
+      ],
+      "expected_supporting_pdf_pages": [],
+      "supporting_page_evaluation_applicable": false,
+      "supporting_source_and_page_found": null,
+      "supporting_rank": null,
+      "supporting_reciprocal_rank": null,
+      "supporting_matching_evidence": [],
+      "retrieved_evidence_count": 8,
+      "retrieved_citations": [
+        {
+          "rank": 1,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 14,
+          "chunk_id": null
+        },
+        {
+          "rank": 2,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 13,
+          "chunk_id": null
+        },
+        {
+          "rank": 3,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 2,
+          "chunk_id": null
+        },
+        {
+          "rank": 4,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 2,
+          "chunk_id": null
+        },
+        {
+          "rank": 5,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 1,
+          "chunk_id": null
+        },
+        {
+          "rank": 6,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 3,
+          "chunk_id": null
+        },
+        {
+          "rank": 7,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 4,
+          "chunk_id": null
+        },
+        {
+          "rank": 8,
+          "source_id": "nice_ng111",
+          "page_number": 31,
+          "chunk_id": null
+        }
+      ],
+      "retrieval_status": "evidence_retrieved",
+      "expansion_triggered": true,
+      "expansion_reasons": [
+        "patient_context_missing"
+      ],
+      "constraint_status": "context_incomplete",
+      "answer_status": "answered",
+      "scope_note": null
+    },
+    {
+      "case_id": "CG-05",
+      "evaluation_type": "primary",
+      "question": "In complicated UTI with Gram-negative bacteremia, when does the 2025 IDSA guideline suggest transitioning from IV to oral antibiotics?",
+      "topic": "iv_to_oral_transition",
+      "expected_source_id": "idsa_2025_cuti_iv_to_oral",
+      "expected_pdf_pages": [
+        2
+      ],
+      "target_source_and_page_found": true,
+      "primary_rank": 1,
+      "primary_reciprocal_rank": 1.0,
+      "matching_evidence": [
+        {
+          "rank": 1,
+          "reciprocal_rank": 1.0,
+          "source_id": "idsa_2025_cuti_iv_to_oral",
+          "page_number": 2,
+          "chunk_id": null
+        }
+      ],
+      "expected_supporting_pdf_pages": [],
+      "supporting_page_evaluation_applicable": false,
+      "supporting_source_and_page_found": null,
+      "supporting_rank": null,
+      "supporting_reciprocal_rank": null,
+      "supporting_matching_evidence": [],
+      "retrieved_evidence_count": 8,
+      "retrieved_citations": [
+        {
+          "rank": 1,
+          "source_id": "idsa_2025_cuti_iv_to_oral",
+          "page_number": 2,
+          "chunk_id": null
+        },
+        {
+          "rank": 2,
+          "source_id": "idsa_2025_cuti_iv_to_oral",
+          "page_number": 4,
+          "chunk_id": null
+        },
+        {
+          "rank": 3,
+          "source_id": "idsa_2025_cuti_duration",
+          "page_number": 2,
+          "chunk_id": null
+        },
+        {
+          "rank": 4,
+          "source_id": "idsa_2025_cuti_duration",
+          "page_number": 2,
+          "chunk_id": null
+        },
+        {
+          "rank": 5,
+          "source_id": "idsa_2025_cuti",
+          "page_number": 2,
+          "chunk_id": null
+        },
+        {
+          "rank": 6,
+          "source_id": "idsa_2025_cuti_duration",
+          "page_number": 13,
+          "chunk_id": null
+        },
+        {
+          "rank": 7,
+          "source_id": "idsa_2025_cuti_duration",
+          "page_number": 1,
+          "chunk_id": null
+        },
+        {
+          "rank": 8,
+          "source_id": "idsa_2025_cuti_duration",
+          "page_number": 2,
+          "chunk_id": null
+        }
+      ],
+      "retrieval_status": "evidence_retrieved",
+      "expansion_triggered": true,
+      "expansion_reasons": [
+        "patient_context_missing"
+      ],
+      "constraint_status": "context_incomplete",
+      "answer_status": "answered",
+      "scope_note": "Conditional recommendation; very low certainty of evidence."
+    }
+  ],
+  "diagnostic_summary": {
+    "cases": 2,
+    "source_and_page_hits": 2,
+    "hit_rate": 1.0,
+    "mean_reciprocal_rank": 0.18333333333333335,
+    "mean_rank_when_found": 5.5
+  },
+  "diagnostic_results": [
+    {
+      "case_id": "CG-02",
+      "evaluation_type": "diagnostic_variant",
+      "question": "In pregnant women with acute pyelonephritis, when should NICE-recommended intravenous antibiotics be reviewed, and what should be considered at that review?",
+      "topic": "iv_to_oral_transition",
+      "expected_source_id": "nice_ng111",
+      "expected_pdf_pages": [
+        12
+      ],
+      "target_source_and_page_found": true,
+      "primary_rank": 5,
+      "primary_reciprocal_rank": 0.2,
+      "matching_evidence": [
+        {
+          "rank": 5,
+          "reciprocal_rank": 0.2,
+          "source_id": "nice_ng111",
+          "page_number": 12,
+          "chunk_id": null
+        }
+      ],
+      "expected_supporting_pdf_pages": [],
+      "supporting_page_evaluation_applicable": false,
+      "supporting_source_and_page_found": null,
+      "supporting_rank": null,
+      "supporting_reciprocal_rank": null,
+      "supporting_matching_evidence": [],
+      "retrieved_evidence_count": 8,
+      "retrieved_citations": [
+        {
+          "rank": 1,
+          "source_id": "nice_ng111",
+          "page_number": 26,
+          "chunk_id": null
+        },
+        {
+          "rank": 2,
+          "source_id": "nice_ng111",
+          "page_number": 24,
+          "chunk_id": null
+        },
+        {
+          "rank": 3,
+          "source_id": "nice_ng111",
+          "page_number": 9,
+          "chunk_id": null
+        },
+        {
+          "rank": 4,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 4,
+          "chunk_id": null
+        },
+        {
+          "rank": 5,
+          "source_id": "nice_ng111",
+          "page_number": 12,
+          "chunk_id": null
+        },
+        {
+          "rank": 6,
+          "source_id": "nice_ng111",
+          "page_number": 22,
+          "chunk_id": null
+        },
+        {
+          "rank": 7,
+          "source_id": "nice_ng111",
+          "page_number": 24,
+          "chunk_id": null
+        },
+        {
+          "rank": 8,
+          "source_id": "nice_ng111",
+          "page_number": 26,
+          "chunk_id": null
+        }
+      ],
+      "retrieval_status": "evidence_retrieved",
+      "expansion_triggered": true,
+      "expansion_reasons": [
+        "risk_terms_detected",
+        "patient_context_missing"
+      ],
+      "constraint_status": "context_incomplete",
+      "answer_status": "answered",
+      "scope_note": "Population-specific diagnostic variant. Page 12 contains both the pregnant-women table (Table 2) and the under-16 table (Table 3). Evaluate the 48-hour review passage with its population context preserved."
+    },
+    {
+      "case_id": "CG-03",
+      "evaluation_type": "diagnostic_variant",
+      "question": "According to NICE, if susceptibility results show that the bacteria causing acute pyelonephritis are resistant to the current antibiotic, what change in treatment is recommended?",
+      "topic": "culture_and_susceptibility",
+      "expected_source_id": "nice_ng111",
+      "expected_pdf_pages": [
+        7
+      ],
+      "target_source_and_page_found": true,
+      "primary_rank": 6,
+      "primary_reciprocal_rank": 0.16666666666666666,
+      "matching_evidence": [
+        {
+          "rank": 6,
+          "reciprocal_rank": 0.16666666666666666,
+          "source_id": "nice_ng111",
+          "page_number": 7,
+          "chunk_id": null
+        }
+      ],
+      "expected_supporting_pdf_pages": [
+        22
+      ],
+      "supporting_page_evaluation_applicable": true,
+      "supporting_source_and_page_found": true,
+      "supporting_rank": 7,
+      "supporting_reciprocal_rank": 0.14285714285714285,
+      "supporting_matching_evidence": [
+        {
+          "rank": 7,
+          "reciprocal_rank": 0.14285714285714285,
+          "source_id": "nice_ng111",
+          "page_number": 22,
+          "chunk_id": null
+        }
+      ],
+      "retrieved_evidence_count": 8,
+      "retrieved_citations": [
+        {
+          "rank": 1,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 4,
+          "chunk_id": null
+        },
+        {
+          "rank": 2,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 3,
+          "chunk_id": null
+        },
+        {
+          "rank": 3,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 14,
+          "chunk_id": null
+        },
+        {
+          "rank": 4,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 15,
+          "chunk_id": null
+        },
+        {
+          "rank": 5,
+          "source_id": "idsa_escmid_2010_uncomplicated",
+          "page_number": 15,
+          "chunk_id": null
+        },
+        {
+          "rank": 6,
+          "source_id": "nice_ng111",
+          "page_number": 7,
+          "chunk_id": null
+        },
+        {
+          "rank": 7,
+          "source_id": "nice_ng111",
+          "page_number": 22,
+          "chunk_id": null
+        },
+        {
+          "rank": 8,
+          "source_id": "idsa_2025_cuti_duration",
+          "page_number": 13,
+          "chunk_id": null
+        }
+      ],
+      "retrieval_status": "evidence_retrieved",
+      "expansion_triggered": true,
+      "expansion_reasons": [
+        "risk_terms_detected",
+        "patient_context_missing"
+      ],
+      "constraint_status": "context_incomplete",
+      "answer_status": "answered",
+      "scope_note": null
+    }
+  ]
+}

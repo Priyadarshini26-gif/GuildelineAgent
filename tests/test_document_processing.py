@@ -92,3 +92,16 @@ def test_clean_extracted_text_normalizes_whitespace():
     cleaned = clean_extracted_text(text)
 
     assert cleaned == "First line\nSecond line\n\nThird line"
+
+def test_chunk_text_preserves_population_heading_with_recommendation():
+    text = (
+        "Table 2 Antibiotics for pregnant women aged 12 years and over. "
+        "Review intravenous antibiotics by 48 hours and consider "
+        "stepping down to oral antibiotics where possible."
+    )
+
+    chunks = chunk_text(text, chunk_size=200, overlap=30)
+
+    assert len(chunks) == 1
+    assert "pregnant women aged 12 years and over" in chunks[0]
+    assert "Review intravenous antibiotics by 48 hours" in chunks[0]

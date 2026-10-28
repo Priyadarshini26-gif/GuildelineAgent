@@ -1,0 +1,373 @@
+
+================================================================================
+SOURCE: nice_ng111.pdf
+================================================================================
+
+--- PDF PAGE 6 ---
+Recommendations
+1.1 Managing acute pyelonephritis
+1.1.1
+Be aware that acute pyelonephritis is an infection of one or both kidneys usually
+caused by bacteria travelling up from the bladder.
+Treatment
+1.1.2
+In people aged 16 years and over with acute pyelonephritis, obtain a midstream
+urine sample before antibiotics are taken and send for culture and susceptibility
+testing.
+1.1.3
+In children and young people under 16 years with acute pyelonephritis, obtain a
+urine sample before antibiotics are taken and send for culture and susceptibility
+testing in line with the NICE guideline on urinary tract infection in under 16s.
+1.1.4
+Assess and manage children under 5 with acute pyelonephritis who present with
+fever as outlined in the NICE guideline on fever in under 5s.
+1.1.5
+Offer an antibiotic (see the recommendations on choice of antibiotic) to people
+with acute pyelonephritis. Take account of:
+• the severity of symptoms
+• the risk of developing complications, which is higher in people with known or
+suspected structural or functional abnormality of the genitourinary tract or
+immunosuppression
+• previous urine culture and susceptibility results
+• previous antibiotic use, which may have led to resistant bacteria.
+1.1.6
+When results of urine cultures are available:
+Pyelonephritis (acute): antimicrobial prescribing (NG111)
+© NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 6 of
+32
+
+--- PDF PAGE 7 ---
+• review the choice of antibiotic and
+• change the antibiotic according to susceptibility results if the bacteria are
+resistant, using a narrow spectrum antibiotic wherever possible.
+Advice when an antibiotic prescription is given
+1.1.7
+When an antibiotic is given, as well as the general advice on self-care, give
+advice about:
+• possible adverse effects of the antibiotic, particularly diarrhoea and nausea
+• nausea with vomiting also being a possible indication of worsening
+pyelonephritis
+• seeking medical help if:
+－ symptoms worsen at any time or
+－ symptoms do not start to improve within 48 hours of taking the antibiotic
+or
+－ the person becomes systemically very unwell.
+Reassessment
+1.1.8
+Reassess if symptoms worsen at any time, or do not start to improve within
+48 hours of taking the antibiotic, taking account of:
+• other possible diagnoses
+• any symptoms or signs suggesting a more serious illness or condition, such
+as sepsis
+• previous antibiotic use, which may have led to resistant bacteria.
+Pyelonephritis (acute): antimicrobial prescribing (NG111)
+© NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 7 of
+32
+
+--- PDF PAGE 12 ---
+impairment, renal impairment and breastfeeding, and administering intravenous antibiotics.
+Check any previous urine culture and susceptibility results and antibiotic prescribing and
+choose antibiotics accordingly.
+Review intravenous antibiotics by 48 hours and consider stepping down to oral antibiotics
+where possible.
+Table 2 Antibiotics for pregnant women aged 12 years and over
+Treatment
+Antibiotic, dosage and course length
+First-choice oral antibiotic
+Cefalexin:
+500 mg twice or three times a day (up to 1 g
+to 1.5 g three or four times a day for severe
+infections) for 7 to 10 days
+First-choice intravenous antibiotic (if
+vomiting, unable to take oral
+antibiotics, or severely unwell)
+Cefuroxime:
+750 mg to 1.5 g three or four times a day
+Second-choice antibiotics or when
+combining antibiotics if susceptibility
+or sepsis a concern
+Consult local microbiologist
+See the BNF for appropriate use and dosing in specific populations, for example, hepatic
+impairment and renal impairment, and administering intravenous antibiotics.
+Check any previous urine culture and susceptibility results and antibiotic prescribing and
+choose antibiotics accordingly.
+Review intravenous antibiotics by 48 hours and consider stepping down to oral antibiotics
+where possible.
+Table 3 Antibiotics for children and young people under 16 years
+Treatment
+Antibiotic, dosage and course length
+Choice for children under 3 months
+Refer to paediatric specialist and treat
+with intravenous antibiotics in line with
+the NICE guideline on fever in under 5s
+Pyelonephritis (acute): antimicrobial prescribing (NG111)
+© NICE 2026. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+Page 12 of
+32
+
+================================================================================
+SOURCE: idsa_escmid_2010_uncomplicated.pdf
+================================================================================
+
+--- PDF PAGE 14 ---
+initial empirical therapy should be tailored appropriately on
+the basis of the infecting uropathogen (A-III).
+9.
+Oral ciprofloxacin (500 mg twice daily) for 7 days, with or
+without an initial 400-mg dose of intravenous ciprofloxacin, is
+an appropriate choice for therapy in patients not requiring
+hospitalization
+where
+the
+prevalence
+of
+resistance
+of
+community uropathogens to fluoroquinolones is not known
+to exceed 10% (A-I). If an initial one-time intravenous agent is
+used, a long-acting antimicrobial, such as 1 gof ceftriaxone or
+a consolidated 24-h dose of an aminoglycoside, could be used
+in lieu of an intravenous fluoroquinolone (B-III). If the
+prevalence of fluoroquinolone resistance is thought to exceed
+10%, an initial 1-time intravenous dose of a long-acting
+parenteral antimicrobial, such as 1 g of ceftriaxone (B-III) or
+a
+consolidated
+24-h
+dose
+of
+an
+aminoglycoside,
+is
+recommended (B-III).
+i. Data are insufficient to make a recommendation about what
+fluoroquinolone resistance level requires an alternative agent in
+conjunction with or to replace a fluoroquinolone for treatment
+of pyelonephritis.
+10.
+A
+once-daily
+oral
+fluoroquinolone,
+including
+ciprofloxacin
+(1000
+mg
+extended
+release
+for
+7
+days)or
+levofloxacin (750 mg for 5 days), is an appropriate choice for
+therapy in patients not requiring hospitalization where the
+prevalence of resistance of community uropathogens is not
+known to exceed 10% (B-II). If the prevalence of fluoroquinolone
+resistance is thought to exceed 10%, an initial intravenous dose of
+a long-acting parenteral antimicrobial, such as 1 g of ceftriaxone
+(B-III) or a consolidated 24-h dose of an aminoglycoside, is
+recommended (B-III).
+11.
+Oral trimethoprim-sulfamethoxazole (160/800 mg [1
+double-strength
+tablet]
+twice-daily
+for
+14
+days)
+is
+an
+appropriate choice for therapy if the uropathogen is known
+to be susceptible (A-I). If trimethoprim-sulfamethoxazole is
+used when the
+susceptibility
+is
+not
+known,
+an
+initial
+intravenous dose of a long-acting parenteral antimicrobial,
+such as 1 g of ceftriaxone (B-II) or a consolidated 24-h dose of
+an aminoglycoside, is recommended (B-III).
+12.
+Oral b-lactam agents are less effective than other
+available agents for treatment of pyelonephritis (B-III). If an
+oral b-lactam agent is used, an initial intravenous dose of
+a long-acting parenteral antimicrobial, such as 1 g of
+ceftriaxone
+(B-II)
+or
+a
+consolidated
+24-h
+dose
+of
+an
+aminoglycoside, is recommended (B-III).
+i. Data are insufficient to modify the previous guideline
+recommendation for a duration of therapy of 10–14 days for
+treatment of pyelonephritis with a b-lactam agent.
+13.
+Women with pyelonephritis requiring hospitalization
+should be initially treated with an intravenous antimicrobial
+regimen, such as a fluoroquinolone; an aminoglycoside, with or
+without ampicillin; an extended-spectrum cephalosporin or
+extended-spectrum
+penicillin,
+with
+or
+without
+an
+aminoglycoside; or a carbapenem. The choice between these
+agents should be based on local resistance data, and the
+regimen should be tailored on the basis of susceptibility
+results (B-III).
+Evidence Summary
+Optimal therapy for acute uncomplicated pyelonephritis de-
+pends on the severity of illness at presentation and local re-
+sistance patterns as well as specific host factors (such as
+allergies). In addition, urine culture and susceptibility testing
+should be performed, and initial empirical therapy should be
+tailored appropriately on the basis of the infecting uropathogen.
+Strategies for optimizing empirical therapy when local resistance
+patterns are not known include using an initial intravenous dose
+of a long-acting parenteral antimicrobial and starting with
+a broader-spectrum agent and narrowing therapy when labo-
+ratory results are available.
+There were 6 treatment studies of acute uncomplicated py-
+elonephritis identified, but only 1 study met our inclusion cri-
+teria. This study compared a 7-day regimen of oral ciprofloxacin
+(500 mg twice daily) with a 14-day regimen of trimethoprim-
+sulfamethoxazole (160/800 mg twice daily) for treatment of
+women presenting to emergency departments or outpatient
+clinics with mild to moderate pyelonephritis [55]. An initial
+intravenous 400-mg dose of ciprofloxacin in the ciprofloxacin
+group or a 1-g dose of ceftriaxone in the trimethoprim-
+sulfamethoxazole group was allowed in the protocol at the
+discretion of the clinician. Women with an uropathogen re-
+sistant to the study drug to which they were randomized con-
+tinued to receive the drug unless they experienced clinical failure
+(14 women in the trimethoprim-sulfamethoxazole group and 1
+woman in the ciprofloxacin group). Ciprofloxacin had signifi-
+cantly higher microbiological (99% vs 89%, respectively) and
+clinical (96% vs 83%, respectively) cure rates at the early post-
+therapy visit. Cure rates were similar regardless of whether
+an initial intravenous dose of ciprofloxacin was given. Among
+trimethoprim-sulfamethoxazole–treated women, those with a
+trimethoprim-sulfamethoxazole–resistant
+uropathogen
+had
+significantly lower microbiological eradication and clinical cure
+rates, compared with those with a susceptible uropathogen.
+An
+initial
+intravenous
+dose
+of
+ceftriaxone
+significantly
+improved the microbiological eradication rate and moderately
+improved the clinical cure rate in women with a trimethoprim-
+sulfamethoxazole–resistant uropathogen.
+Two additional studies also demonstrated that a 5–7-day
+regimen of a once-daily fluoroquinolone (ciprofloxacin, 1000
+mg extended release, and levofloxacin, 750 mg, respectively)
+were effective for acute pyelonephritis [56, 57]. These studies did
+not
+meet
+our
+inclusion
+criteria
+because
+they
+included
+e116
+d CID 2011:52 (1 March)
+d Gupta et al
+Downloaded from academic.oup.com/cid/article/52/5/e103/388285 by guest on 22 October 2026
+
+================================================================================
+SOURCE: idsa_2025_cuti_iv_to_oral.pdf
+================================================================================
+
+--- PDF PAGE 2 ---
+2
+
+-
+The trials supporting this recommendation mostly excluded patients with indwelling
+urinary catheters, sepsis or septic shock, immunocompromised states, severe renal
+insufficiency, and functional or structural abnormalities of the urinary tract. Some
+patients in these subpopulations may need an individualized plan of therapy.
+-
+An effective antimicrobial agent means that the antibiotic achieves therapeutic levels
+in the urine and relevant tissue and is active against the causative pathogen.
+-
+Refer to Figure 1.2 for a stepwise assessment of the intravenous to oral switch
+and the duration of antibiotic therapy.
+
+II.
+In patients presenting with complicated UTI (including acute pyelonephritis) and associated
+Gram-negative bacteremia treated initially with parenteral therapy who are clinically
+improving, able to take oral medication, and for whom an effective oral option is available,
+we suggest transitioning to oral antibiotics rather than continuing parenteral therapy for the
+remaining treatment duration (conditional recommendation, very low certainty of the
+evidence).
+
+Comments:
+-
+The trials supporting this recommendation mostly included patients who were
+afebrile, hemodynamically stable, and had achieved source control (relief of any
+urinary obstruction) before transitioning to oral antibiotics.
+-
+An effective antimicrobial agent for bacteremic patients means that the antibiotic
+achieves therapeutic levels in the bloodstream, urine, and relevant tissue and is
+active against the causative pathogen.
+-
+Refer to Figure 1.2 for a stepwise assessment of the intravenous to oral switch and
+the duration of antibiotic therapy.
+
+--- PDF PAGE 6 ---
+6
+
+Benefits, Harms, and Certainty of the Evidence (CoE)
+Benefits and harms: Overall, transitioning from IV to oral therapy in the course of treatment for
+cUTI does not appear to reduce clinical cure or increase recurrence of infection, and transitioning
+may lead to potentially fewer intravenous catheter-related harms.
+The evidence suggests that transition to oral therapy in patients with cUTI does not
+reduce clinical cure at EOT or TOC (risk difference or RD: 1.8%; 95%CI: -3.6% to 7.2%/ relative
+risk or RR: 1.02; 95% CI: 0.96 to 1.08; low CoE) as compared to patients continued on
+parenteral therapy for the full duration of treatment.
+Transition to oral therapy may not increase recurrence of infection (RD: -2.0%; 95%CI: -
+2.9% to 6.1% / RR: 0.33; 95% CI: 0.04 to 3.05; low CoE), but this estimate is imprecise due to
+very few events and small sample size.
+In the one study examining duration of hospitalization (Concia 2006),5 transition to oral
+therapy might have reduced length of hospital stay (median 10.9 versus 17.2 days; absolute
+reduction of 6.3 days, 95% CI: 11.8 to 0.8 days fewer; very low CoE). This evidence is very
+uncertain due to imprecision (small sample size of 47 patients), risk of bias due to unblinded
+study design, and indirectness or lack of generalizability (i.e. the length of hospitalization
+reported in this study was directly influenced by the route of administration of antimicrobials
+since all patients received parenteral antibiotics in hospital). Despite this uncertainty,
+transitioning patients to oral antibiotics is very likely to shorten the duration of hospitalizations if
+receipt of IV antibiotics will delay hospital discharge.
+Despite the available evidence being very uncertain, transition to oral therapy may reduce
+IV catheter related adverse events (RD: -4.9%; 95%CI: -11.5% to 1.7% / RR: 0.20; 95% CI: 0.01
+to 4.04; very low CoE).
+Each day of IV catheterization confers risks of adverse events related to the catheter.
+However, as IV treatment of cUTI is typically 7 days in duration or less, a switch between 3-7
+days to oral therapy may not have appreciable benefit in terms of avoiding adverse events of
+catheterization in the individual patient. However, benefits may be realized in prevention of
+adverse events (such as infections) over a larger number of patients. An IV to oral switch can
+also reduce the volume of fluid and sodium given to the patient, but these outcomes were not
+studied in the included trials.
+Transition to oral therapy may have little to no effect on serious adverse events (RD: -
+0.8%; 95%CI: -1.9% to 6.3%  / RR: 0.65; 95%CI 0.11 to 3.88; low CoE) and on non-serious
+adverse events (RD: 1.0%; 95%CI: -2.1% to 16.7%/ RR: 1.35; 95% CI: 0.27 to 6.67; very low
+CoE). Imprecision due to few events and small sample size make these assessments uncertain.
+
+Certainty of Evidence: The panel recognized that transitioning to oral antimicrobial treatment
+may provide the same potential benefits as continuing parenteral therapy (no reduction in
+clinical efficacy and no increase in recurrence of infection), may reduce length of hospitalization

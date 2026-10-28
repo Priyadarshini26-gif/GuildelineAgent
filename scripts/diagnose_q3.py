@@ -1,58 +1,100 @@
+
 import sys
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
-from src.ingest_guidelines import ingest_registered_guidelines
 from src.retrieval_pipeline import build_registered_retriever
 
 SOURCE = "idsa_escmid_2010_uncomplicated"
 PAGE = 4
-QUESTION = (
-    "According to IDSA/ESCMID 2010, what initial intravenous "
-    "antimicrobial regimens are listed for women with "
-    "pyelonephritis requiring hospitalization?"
-)
-KEYWORDS = ["carbapenem", "aminoglycoside", "fluoroquinolone",
-            "hospitalization", "hospitalisation", "pyelonephritis"]
+OUT = PROJECT_ROOT / "diagnostic_q3_phrasings.txt"
 
-OUT = PROJECT_ROOT / "diagnostic_q3.txt"
+QUESTIONS = {
+    "original": (
+        "According to IDSA/ESCMID 2010, what initial intravenous "
+        "antimicrobial regimens are listed for women with "
+        "pyelonephritis requiring hospitalization?"
+    ),
+    "guideline wording": (
+        "What intravenous antimicrobial regimen should be used initially "
+        "for women hospitalized with pyelonephritis?"
+    ),
+    "recommendation wording": (
+        "Which initial IV antimicrobial options are recommended for "
+        "hospitalized women with pyelonephritis in the IDSA/ESCMID guideline?"
+    ),
+    "specific regimen terms": (
+        "For hospitalized women with pyelonephritis, which initial "
+        "fluoroquinolone, aminoglycoside, cephalosporin, penicillin, "
+        "or carbapenem regimens are discussed?"
+    ),
+}
+
+
+def relevant_rank(results):
+    for rank, result in enumerate(results, start=1):
+        metadata = result["metadata"]
+        if (
+            metadata["source_id"] == SOURCE
+            and metadata["page_number"] == PAGE
+        ):
+            return rank
+    return None
 
 
 def main():
+    retriever, _ = build_registered_retriever()
     lines = []
 
-    # A. Every chunk the pipeline created for the relevant page.
-    chunks, _ = ingest_registered_guidelines()
-    page_chunks = [
-        c for c in chunks
-        if c["metadata"]["source_id"] == SOURCE
-        and c["metadata"]["page_number"] == PAGE
-    ]
-    lines.append(f"=== A. CHUNKS ON {SOURCE} PAGE {PAGE}: {len(page_chunks)} ===")
-    for c in page_chunks:
-        text = c["text"]
-        found = [k for k in KEYWORDS if k in text.lower()]
-        lines.append("-" * 70)
-        lines.append(f"chunk_id={c['chunk_id']} length={len(text)}")
-        lines.append(f"keywords present: {found}")
-        lines.append(text)
-
-    # B. Top 10 within the source, with page and chunk number.
-    retriever, _ = build_registered_retriever()
-    results = retriever.search(QUESTION, top_k=10, source_id=SOURCE)
-    lines.append("")
-    lines.append("=== B. TOP 10 WITHIN SOURCE ===")
-    for rank, r in enumerate(results, start=1):
-        m = r["metadata"]
-        mark = "  <-- RELEVANT PAGE" if m["page_number"] == PAGE else ""
-        lines.append("-" * 70)
-        lines.append(
-            f"rank={rank} page={m['page_number']} "
-            f"chunk={m['chunk_number']} score={r['score']:.4f}{mark}"
+    for label, question in QUESTIONS.items():
+        # Search the entire index and the expected source separately.
+        global_results = retriever.search(question, top_k=20)
+        source_results = retriever.search(
+            question, top_k=20, source_id=SOURCE
         )
-        lines.append(r["text"][:400])
+
+        global_rank = relevant_rank(global_results)
+        source_rank = relevant_rank(source_results)
+
+        lines.append("=" * 78)
+        lines.append(f"TEST: {label}")
+        lines.append(f"QUESTION: {question}")
+        lines.append(f"Relevant page rank in global top 20: {global_rank}")
+        lines.append(f"Relevant page rank within source top 20: {source_rank}")
+
+        lines.append("\nGLOBAL TOP 10:")
+        for rank, result in enumerate(global_results[:10], start=1):
+            metadata = result["metadata"]
+            marker = (
+                " <-- RELEVANT PAGE"
+                if metadata["source_id"] == SOURCE
+                and metadata["page_number"] == PAGE
+                else ""
+            )
+            lines.append(
+                f"{rank}. source={metadata['source_id']} "
+                f"page={metadata['page_number']} "
+                f"chunk={metadata['chunk_number']} "
+                f"score={result['score']:.4f}{marker}"
+            )
+            lines.append(result["text"][:220].replace("\n", " "))
+
+        lines.append("\nTOP 10 WITHIN EXPECTED SOURCE:")
+        for rank, result in enumerate(source_results[:10], start=1):
+            metadata = result["metadata"]
+            marker = (
+                " <-- RELEVANT PAGE"
+                if metadata["page_number"] == PAGE
+                else ""
+            )
+            lines.append(
+                f"{rank}. page={metadata['page_number']} "
+                f"chunk={metadata['chunk_number']} "
+                f"score={result['score']:.4f}{marker}"
+            )
+            lines.append(result["text"][:220].replace("\n", " "))
 
     OUT.write_text("\n".join(lines), encoding="utf-8")
     print(f"Wrote {OUT}")

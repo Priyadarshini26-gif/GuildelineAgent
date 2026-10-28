@@ -1,0 +1,44 @@
+
+[
+  {
+    "id": "CG-01",
+    "question": "In people aged 16 and over with acute pyelonephritis, what urine investigation does NICE recommend before antibiotics?",
+    "expected_source_id": "nice_ng111",
+    "expected_pdf_pages": [6],
+    "topic": "diagnosis_and_culture"
+  },
+  {
+    "id": "CG-02",
+    "question": "In pregnant women with acute pyelonephritis, when should NICE-recommended intravenous antibiotics be reviewed, and what should be considered at that review?",
+    "expected_source_id": "nice_ng111",
+    "expected_pdf_pages": [12],
+    "topic": "iv_to_oral_transition",
+    "scope_note": "Population-specific diagnostic variant. Page 12 contains both the pregnant-women table (Table 2) and the under-16 table (Table 3). Evaluate the 48-hour review passage with its population context preserved.",
+    "evaluation_role": "diagnostic_variant",
+    "original_question": "When should NICE-recommended IV antibiotics be reviewed, and what should be considered at that review?"
+  },
+  {
+    "id": "CG-03",
+    "question": "When urine culture results show resistance, how does NICE recommend changing antibiotic treatment?",
+    "expected_source_id": "nice_ng111",
+    "expected_pdf_pages": [7],
+    "expected_supporting_pdf_pages": [22],
+    "topic": "culture_and_susceptibility",
+    "diagnostic_question": "According to NICE, if susceptibility results show that the bacteria causing acute pyelonephritis are resistant to the current antibiotic, what change in treatment is recommended?"
+  },
+  {
+    "id": "CG-04",
+    "question": "According to the IDSA/ESCMID guideline, what should guide the choice and adjustment of initial empirical treatment for pyelonephritis?",
+    "expected_source_id": "idsa_escmid_2010_uncomplicated",
+    "expected_pdf_pages": [14],
+    "topic": "empirical_treatment"
+  },
+  {
+    "id": "CG-05",
+    "question": "In complicated UTI with Gram-negative bacteremia, when does the 2025 IDSA guideline suggest transitioning from IV to oral antibiotics?",
+    "expected_source_id": "idsa_2025_cuti_iv_to_oral",
+    "expected_pdf_pages": [2],
+    "topic": "iv_to_oral_transition",
+    "scope_note": "Conditional recommendation; very low certainty of evidence."
+  }
+]
